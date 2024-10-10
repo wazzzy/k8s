@@ -1,0 +1,72 @@
+[
+  {
+    "model": "coworker.coworker",
+    "pk": 1,
+    "fields": {
+      "name": "Neil",
+      "subheader": "AI Math Solver",
+      "src": "/coworkers/Neil.png",
+      "src_large": "/coworkers/Neil-large.png",
+      "desc": "Mathematical Mastery at Your Fingertips: Our AI coworker is designed to tackle even the most complex mathematical problems with precision and speed, providing accurate solutions every time.",
+      "benefits": [
+        "Speeds up calculations with incredible accuracy",
+        "Reduces errors and inconsistencies in mathematical solutions",
+        "Operates 24/7 without breaks or fatigue",
+        "Omnichannel integration for approval and processing",
+        "Recognizes patterns in data for better insights",
+        "Optimizes mathematical solutions for maximum efficiency",
+        "Saves time and resources for human mathematicians",
+        "Adapts to new mathematical concepts and techniques"
+      ],
+      "to_chat": false
+    }
+  },
+  {
+    "model": "coworker.coworker",
+    "pk": 2,
+    "fields": {
+      "name": "Plutus",
+      "subheader": "AI Web Search Coworker",
+      "src": "/coworkers/Plutus.png",
+      "src_large": "/coworkers/Plutus-large.png",
+      "desc": "AI coworker rapidly scans the web, extracting relevant information from a vast array of sources to provide accurate and up-to-date answers to questions.",
+      "benefits": [
+        "Rapidly scans web for accurate information.",
+        "Extracts relevant data from multiple sources quickly",
+        "Saves time and effort in research",
+        "Provides up-to-date answers to your questions",
+        "Delivers precise results in seconds always",
+        "Reduces manual searching and browsing",
+        "Increases productivity with efficient information retrieval",
+        "Enhances knowledge and understanding of topics",
+        "Supports decision-making with reliable data",
+        "Frees up time for more important tasks"
+      ],
+      "to_chat": false
+    }
+  },
+  {
+    "model": "coworker.coworker",
+    "pk": 3,
+    "fields": {
+      "name": "Moneta",
+      "subheader": "RAG Coworker",
+      "src": "/coworkers/Moneta.png",
+      "src_large": "/coworkers/Moneta-large.png",
+      "desc": "AI coworker rapidly scans the web, extracting relevant information from a vast array of sources to provide accurate and up-to-date answers to questions.",
+      "benefits": [
+        "Rapidly scans web for accurate information.",
+        "Extracts relevant data from multiple sources quickly",
+        "Saves time and effort in research",
+        "Provides up-to-date answers to your questions",
+        "Delivers precise results in seconds always",
+        "Reduces manual searching and browsing",
+        "Increases productivity with efficient information retrieval",
+        "Enhances knowledge and understanding of topics",
+        "Supports decision-making with reliable data",
+        "Frees up time for more important tasks"
+      ],
+      "to_chat": false
+    }
+  }
+]
